@@ -1,0 +1,15 @@
+import streamlit as st
+
+st.title("REFEREES")
+
+st.markdown("""
+**DR. VANCY KEBUT**  
+H.O.D – DEPARTMENT OF COMPUTER SCIENCE AND INFORMATICS  
+KARATINA UNIVERSITY  
+Email: vkebut@karu.ac.ke  
+Phone: +254 710 453622
+
+**MADAM LIZ MURABU**  
+HEAD OF TRAINING – KEMRI WELLCOME TRUST RESEARCH PROGRAMME  
+Phone: +254 752 256753
+""")
