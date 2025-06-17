@@ -35,4 +35,3 @@ I have a deep passion for technology, software development, and problem-solving.
 I'm committed to <strong>continuous learning</strong> and using my skills to build practical solutions.
 </p>
 """, unsafe_allow_html=True)
-

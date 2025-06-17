@@ -35,7 +35,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and subtitle
-st.markdown("<h1>STEPHEN KATANA</h1>", unsafe_allow_html=True)
+st.markdown("<h1>KATANA STEPHEN NGONYO</h1>", unsafe_allow_html=True)
 st.markdown("<h2>Welcome to My Portfolio Website</h2>", unsafe_allow_html=True)
 
 # Load and display profile image centered
