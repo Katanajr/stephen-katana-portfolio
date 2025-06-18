@@ -9,6 +9,8 @@ st.set_page_config(page_title="Stephen Katana Portfolio", layout="centered")
 # Inject custom CSS
 st.markdown("""
     <style>
+            body{
+            background-color; #ffffff;}
         .main {
             max-width: 800px;
             margin: auto;

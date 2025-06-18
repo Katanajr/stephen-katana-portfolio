@@ -29,9 +29,7 @@ st.markdown("<h1>About</h1>", unsafe_allow_html=True)
 
 # Body text
 st.markdown("""
-<p>
-I'm <strong>Stephen Katana</strong>, an IT professional with a degree in <strong>Computer Science</strong>.<br>
-I have a deep passion for technology, software development, and problem-solving.<br>
-I'm committed to <strong>continuous learning</strong> and using my skills to build practical solutions.
+<p style="font-size: 18px; line-height: 1.6; color: #ffffff;">
+    I'm <strong>Stephen Katana</strong>, an IT professional with a degree in <strong>Computer Science</strong>. I have a deep passion for technology, software development, and problem-solving. I'm committed to <strong>continuous learning</strong> and using my skills to build practical solutions.
 </p>
 """, unsafe_allow_html=True)
